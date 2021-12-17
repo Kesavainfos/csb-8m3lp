@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kesavainfos.github.io/csb-8m3lp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kesavainfos.github.io/csb-8m3lp/static/js/main.eccdf3bb.chunk.js",
+    "main.js.map": "https://kesavainfos.github.io/csb-8m3lp/static/js/main.eccdf3bb.chunk.js.map",
+    "runtime-main.js": "https://kesavainfos.github.io/csb-8m3lp/static/js/runtime-main.47374c8d.js",
+    "runtime-main.js.map": "https://kesavainfos.github.io/csb-8m3lp/static/js/runtime-main.47374c8d.js.map",
+    "static/js/2.9173f7cb.chunk.js": "https://kesavainfos.github.io/csb-8m3lp/static/js/2.9173f7cb.chunk.js",
+    "static/js/2.9173f7cb.chunk.js.map": "https://kesavainfos.github.io/csb-8m3lp/static/js/2.9173f7cb.chunk.js.map",
+    "index.html": "https://kesavainfos.github.io/csb-8m3lp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kesavainfos.github.io/csb-8m3lp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9173f7cb.chunk.js.LICENSE.txt": "https://kesavainfos.github.io/csb-8m3lp/static/js/2.9173f7cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47374c8d.js",
+    "static/js/2.9173f7cb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.eccdf3bb.chunk.js"
+  ]
+}
